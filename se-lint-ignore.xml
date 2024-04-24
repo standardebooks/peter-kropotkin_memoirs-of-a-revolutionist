@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1-10.xhtml">
+		<ignore>
+			<code>t-056</code>
+			<reason>Trigesimo-secundo is meant</reason>
+		</ignore>
+	</file>
+	<file path="chapter-4-12.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Punctuation is part of title</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
