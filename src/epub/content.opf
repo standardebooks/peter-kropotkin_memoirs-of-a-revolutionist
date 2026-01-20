@@ -55,7 +55,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://theanarchistlibrary.org/library/petr-kropotkin-memoirs-of-a-revolutionist</dc:source>
 		<dc:source>https://archive.org/details/memoirsofrevolut02krop</dc:source>
-		<meta property="se:word-count">156570</meta>
+		<meta property="se:word-count">156152</meta>
 		<meta property="se:reading-ease.flesch">54.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Memoirs_of_a_Revolutionist</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/peter-kropotkin_memoirs-of-a-revolutionist</meta>
