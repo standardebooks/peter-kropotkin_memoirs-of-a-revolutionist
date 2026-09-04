@@ -30,13 +30,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Memoirs of a Revolutionist</dc:title>
 		<meta property="file-as" refines="#title">Memoirs of a Revolutionist</meta>
-		<dc:subject id="subject-1">Russia -- Social life and customs</dc:subject>
+		<dc:subject id="subject-1">Russia--Social life and customs</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh92004168</meta>
-		<dc:subject id="subject-2">Physical geography -- Russia (Federation) -- Siberia</dc:subject>
+		<dc:subject id="subject-2">Physical geography--Russia (Federation)--Siberia</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010106244</meta>
-		<dc:subject id="subject-3">Autobiography -- Russian authors</dc:subject>
+		<dc:subject id="subject-3">Autobiography--Russian authors</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2021006913</meta>
 		<dc:subject id="subject-4">Revolutions and socialism</dc:subject>
