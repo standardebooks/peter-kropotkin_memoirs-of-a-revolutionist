@@ -65,12 +65,15 @@
 		<dc:creator id="author">Peter Kropotkin</dc:creator>
 		<meta property="file-as" refines="#author">Kropotkin, Peter</meta>
 		<meta property="schema:alternateName" refines="#author">Pyotr Alexeyevich Kropotkin</meta>
+		<meta property="alternate-script" refines="#author">Пётр Алексе́евич Кропо́ткин</meta>
 		<link href="https://en.wikipedia.org/wiki/Peter_Kropotkin" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79033037.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Jean-Jacques Rousseau</dc:contributor>
 		<meta property="file-as" refines="#artist">Rousseau, Jean-Jacques</meta>
+		<link href="https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79008220.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
